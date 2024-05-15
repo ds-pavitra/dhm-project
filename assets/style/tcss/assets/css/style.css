@@ -552,7 +552,7 @@ section {
   display: inline-block;
   padding-right: 10px;
   color: #6c757d;
-  content: "/";
+  content: "/dhm-project/";
 }
 
 @media (max-width: 768px) {

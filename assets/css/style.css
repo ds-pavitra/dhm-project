@@ -277,7 +277,7 @@ header.header .navbar .logo .logo_text {
 
 header.header .navbar .logo .logo_text:before {
     position: absolute;
-    content: "/";
+    content: "/dhm-project/";
     left: -15px;
     top: -8px;
     width: 100%;
@@ -902,7 +902,7 @@ header.header.headerFixed {
 
 .hero_warp .banner_content .exp_list li+li:before {
     position: absolute;
-    content: "/";
+    content: "/dhm-project/";
     left: 10px;
     top: 50%;
     transform: translateY(-50%);
@@ -2483,7 +2483,7 @@ line-height: normal;
 
 .footer .footer_content .footer_logo a .logo_text:before {
     position: absolute;
-    content: "/";
+    content: "/dhm-project/";
     left: -15px;
     top: -8px;
     width: 100%;
